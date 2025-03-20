@@ -619,7 +619,6 @@ color: blueviolet;
     transition: 0.3s;
 }
 #banner-img img{
-    margin-left: 10%;
     background-size: cover;
     width: 980px;
     height: 49vh;
@@ -719,7 +718,7 @@ padding: 14px;
 }
 #contactDetails .details{
     width: 40%;
-    margin-left: 7%;
+    margin-left: 0%;
 }
 #contactDetails .details span{
     font-size: 19px;
@@ -890,7 +889,7 @@ font-size: 14px;
  }
     
  #banner-img img{
-width: 100%;
+width: 49%;
  }
  .about-details p{
     font-size: 17px;
